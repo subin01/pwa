@@ -4,9 +4,9 @@ const urlsToCache = [
   '/globals.css',
   '/manifest.json',
   '/',
-  '/todos/',
-  '/bills/',
-  '/api/bills/',
+  '/todos',
+  '/bills',
+  '/api/bills',
 ];
 
 self.addEventListener('install', (event) => {
