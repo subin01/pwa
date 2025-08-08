@@ -28,3 +28,176 @@ a {
     color-scheme: dark;
   }
 }
+
+/* Todos Component Styles */
+.todos {
+  font-family: monospace;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1rem;
+
+  .todos__user-count {
+    font-size: 0.75rem;
+    color: #6b7280;
+  }
+
+  .todos__title {
+    letter-spacing: 0.05em;
+    font-size: 3rem;
+    color: #d1d5db;
+  }
+
+  .todos__container {
+    border: 1px solid #d1d5db;
+    max-width: 20rem;
+    width: 100%;
+  }
+
+  .todos__realtime-note {
+    font-size: 0.75rem;
+    text-align: center;
+  }
+
+  .todos__form {
+    display: flex;
+    align-items: center;
+    height: 2.5rem;
+    border-bottom: 1px solid #d1d5db;
+  }
+
+  .todos__toggle-all-btn {
+    height: 100%;
+    padding: 0 0.5rem;
+    border-right: 1px solid #d1d5db;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+
+  .todos__toggle-all-btn:hover {
+    background-color: #f3f4f6;
+  }
+
+  .todos__form-element {
+    flex: 1;
+    height: 100%;
+  }
+
+  .todos__input {
+    width: 100%;
+    height: 100%;
+    padding: 0 0.5rem;
+    outline: none;
+    background: transparent;
+    border: none;
+    font-family: inherit;
+  }
+
+  .todos__list {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .todos__item {
+    display: flex;
+    align-items: center;
+    height: 2.5rem;
+    border-bottom: 1px solid #d1d5db;
+  }
+
+  .todos__item:last-child {
+    border-bottom: none;
+  }
+
+  .todos__checkbox-container {
+    height: 100%;
+    padding: 0 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .todos__checkbox-wrapper {
+    width: 1.25rem;
+    height: 1.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .todos__checkbox {
+    cursor: pointer;
+  }
+
+  .todos__text-container {
+    flex: 1;
+    padding: 0 0.5rem;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+  }
+
+  .todos__text {
+    /* Default text style */
+  }
+
+  .todos__text--completed {
+    text-decoration: line-through;
+  }
+
+  .todos__delete-btn {
+    height: 100%;
+    padding: 0 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #d1d5db;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+  }
+
+  .todos__delete-btn:hover {
+    color: #6b7280;
+  }
+
+  .todos__action-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 2.5rem;
+    padding: 0 0.5rem;
+    font-size: 0.75rem;
+    border-top: 1px solid #d1d5db;
+  }
+
+  .todos__delete-completed-btn {
+    color: #d1d5db;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: inherit;
+  }
+
+  .todos__delete-completed-btn:hover {
+    color: #6b7280;
+  }
+
+  .todos__chevron-icon {
+    width: 1.25rem;
+    height: 1.25rem;
+  }
+
+  .todos__chevron-icon svg {
+    width: 100%;
+    height: 100%;
+  }
+}
