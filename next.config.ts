@@ -6,22 +6,16 @@ const nextConfig: NextConfig = {
   },
   webpack: (config, { isServer, dev }) => {
     if (!isServer && !dev) {
-      // Remove chunks and use fixed file names
+      // Force all JS into a single main.js file
       config.output = {
         ...config.output,
         filename: 'static/js/[name].js',
         chunkFilename: 'static/js/[name].js',
       };
 
-      // Disable code splitting completely
       config.optimization = {
         ...config.optimization,
-        splitChunks: {
-          cacheGroups: {
-            default: false,
-            vendors: false,
-          },
-        },
+        splitChunks: false,
         runtimeChunk: false,
       };
     }

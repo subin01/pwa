@@ -1,6 +1,6 @@
 const CACHE_NAME = 'pwa-cache-v1';
 const urlsToCache = [
-  '/js/main-app.js',
+  '_next/static/js/main-app.js',
   '/globals.css',
   '/manifest.json',
   '/',
