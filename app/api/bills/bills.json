@@ -1,419 +1,288 @@
 [
-    {
-        "id": 621,
-        "title": "Aged Care (Accommodation Payment Security) Levy Amendment Bill 2025",
-        "description": "No description available",
-        "currentStage": "HOUSE_READING_1",
-        "categories": [
-            "Legislature"
-        ],
-        "sponsors": [
-            "Hon. Anthony Albanese MP"
-        ],
-        "cosponsors": [
-            "Hon. Julie Collins MP",
-            "Hon. Linda Burney MP"
-        ],
-        "portfolioMinisters": [
-            "Hon. Murray Watt MP"
-        ],
-        "shadowMinisters": [
-            "Hon. Peter Dutton MP",
-            "Hon. Sussan Ley MP"
-        ],
-        "introducedDate": "2025-07-30T01:16:30.432Z",
-        "updatedDate": "2025-07-30T01:16:31.953Z",
-        "isTracked": false,
-        "stageHistory": [
-            {
-                "stage": "HOUSE_READING_1",
-                "date": "2025-07-30"
-            }
-        ],
-        "originatingHouse": "HOUSE",
-        "parliamentarianId": null,
-        "parliamentNumber": "47",
-        "sessionNumber": "1",
-        "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7344",
-        "sourceId": null
-    },
-    {
-        "id": 625,
-        "title": "Criminal Code Amendment (Protection of Children) Bill 2024",
-        "description": "A Bill for an Act to amend the Criminal Code Act 1995 to include greater protections for children, and for related purposes",
-        "currentStage": "SENATE_READING_1",
-        "categories": [
-            "Legislature"
-        ],
-        "sponsors": [
-            "Senator Katy Gallagher"
-        ],
-        "cosponsors": [
-            "Senator Fatima Payman",
-            "Senator Penny Wong"
-        ],
-        "portfolioMinisters": [
-            "Hon. Jim Chalmers MP"
-        ],
-        "shadowMinisters": [
-            "Hon. Jane Hume MP"
-        ],
-        "introducedDate": "2025-07-30T01:16:31.952Z",
-        "updatedDate": "2025-07-30T01:16:31.953Z",
-        "isTracked": false,
-        "stageHistory": [
-            {
-                "stage": "SENATE_READING_1",
-                "date": "2025-07-30"
-            }
-        ],
-        "originatingHouse": "SENATE",
-        "parliamentarianId": null,
-        "parliamentNumber": "47",
-        "sessionNumber": "1",
-        "sourceUrl": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results?bId=s1456",
-        "sourceId": null
-    },
-    {
-        "id": 624,
-        "title": "Criminal Code Amendment (Using Technology to Generate Child Abuse Material) Bill 2025",
-        "description": "No description available",
-        "currentStage": "HOUSE_READING_1",
-        "categories": [
-            "Legislature"
-        ],
-        "sponsors": [
-            "Hon. Anthony Albanese MP"
-        ],
-        "cosponsors": [
-            "Hon. Julie Collins MP",
-            "Hon. Linda Burney MP"
-        ],
-        "portfolioMinisters": [
-            "Hon. Murray Watt MP"
-        ],
-        "shadowMinisters": [
-            "Hon. Peter Dutton MP",
-            "Hon. Sussan Ley MP"
-        ],
-        "introducedDate": "2025-07-30T01:16:30.433Z",
-        "updatedDate": "2025-07-30T01:16:31.953Z",
-        "isTracked": false,
-        "stageHistory": [
-            {
-                "stage": "HOUSE_READING_1",
-                "date": "2025-07-30"
-            }
-        ],
-        "originatingHouse": "HOUSE",
-        "parliamentarianId": null,
-        "parliamentNumber": "47",
-        "sessionNumber": "1",
-        "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7347",
-        "sourceId": null
-    },
-    {
-        "id": 622,
-        "title": "Australian Security Intelligence Organisation Amendment Bill (No. 1) 2025",
-        "description": "No description available",
-        "currentStage": "HOUSE_READING_1",
-        "categories": [
-            "Legislature"
-        ],
-        "sponsors": [
-            "Hon. Anthony Albanese MP"
-        ],
-        "cosponsors": [
-            "Hon. Julie Collins MP",
-            "Hon. Linda Burney MP"
-        ],
-        "portfolioMinisters": [
-            "Hon. Murray Watt MP"
-        ],
-        "shadowMinisters": [
-            "Hon. Peter Dutton MP",
-            "Hon. Sussan Ley MP"
-        ],
-        "introducedDate": "2025-07-30T01:16:30.432Z",
-        "updatedDate": "2025-07-30T01:16:31.953Z",
-        "isTracked": true,
-        "stageHistory": [
-            {
-                "stage": "HOUSE_READING_1",
-                "date": "2025-07-30"
-            }
-        ],
-        "originatingHouse": "HOUSE",
-        "parliamentarianId": null,
-        "parliamentNumber": "47",
-        "sessionNumber": "1",
-        "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7338",
-        "sourceId": null
-    },
-    {
-        "id": 623,
-        "title": "Australian Security Intelligence Organisation Amendment Bill (No. 2) 2025",
-        "description": "No description available",
-        "currentStage": "HOUSE_READING_1",
-        "categories": [
-            "Legislature"
-        ],
-        "sponsors": [
-            "Hon. Anthony Albanese MP"
-        ],
-        "cosponsors": [
-            "Hon. Julie Collins MP",
-            "Hon. Linda Burney MP"
-        ],
-        "portfolioMinisters": [
-            "Hon. Murray Watt MP"
-        ],
-        "shadowMinisters": [
-            "Hon. Peter Dutton MP",
-            "Hon. Sussan Ley MP"
-        ],
-        "introducedDate": "2025-07-30T01:16:30.433Z",
-        "updatedDate": "2025-07-30T01:16:31.953Z",
-        "isTracked": false,
-        "stageHistory": [
-            {
-                "stage": "HOUSE_READING_1",
-                "date": "2025-07-30"
-            }
-        ],
-        "originatingHouse": "HOUSE",
-        "parliamentarianId": null,
-        "parliamentNumber": "47",
-        "sessionNumber": "1",
-        "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7339",
-        "sourceId": null
-    },
-    {
-        "id": 619,
-        "title": "Customs Amendment (Australia-United Arab Emirates Comprehensive Economic Partnership Agreement Implementation) Bill 2025",
-        "description": "No description available",
-        "currentStage": "HOUSE_READING_1",
-        "categories": [
-            "Legislature"
-        ],
-        "sponsors": [
-            "Hon. Anthony Albanese MP"
-        ],
-        "cosponsors": [
-            "Hon. Julie Collins MP",
-            "Hon. Linda Burney MP"
-        ],
-        "portfolioMinisters": [
-            "Hon. Murray Watt MP"
-        ],
-        "shadowMinisters": [
-            "Hon. Peter Dutton MP",
-            "Hon. Sussan Ley MP"
-        ],
-        "introducedDate": "2025-07-28T03:21:37.860Z",
-        "updatedDate": "2025-07-28T03:21:41.452Z",
-        "isTracked": false,
-        "stageHistory": [
-            {
-                "stage": "HOUSE_READING_1",
-                "date": "2025-07-28"
-            }
-        ],
-        "originatingHouse": "HOUSE",
-        "parliamentarianId": null,
-        "parliamentNumber": "47",
-        "sessionNumber": "1",
-        "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7334",
-        "sourceId": null
-    },
-    {
-        "id": 614,
-        "title": "Therapeutic Goods Amendment Bill 2025",
-        "description": "Z",
-        "currentStage": "HOUSE_READING_1",
-        "categories": [
-            "Legislature"
-        ],
-        "sponsors": [
-            "Hon. Anthony Albanese MP"
-        ],
-        "cosponsors": [
-            "Hon. Julie Collins MP",
-            "Hon. Linda Burney MP"
-        ],
-        "portfolioMinisters": [
-            "Hon. Murray Watt MP"
-        ],
-        "shadowMinisters": [
-            "Hon. Peter Dutton MP",
-            "Hon. Sussan Ley MP"
-        ],
-        "introducedDate": "2025-07-23T04:59:05.075Z",
-        "updatedDate": "2025-07-23T04:59:06.700Z",
-        "isTracked": false,
-        "stageHistory": [
-            {
-                "stage": "HOUSE_READING_1",
-                "date": "2025-07-23"
-            }
-        ],
-        "originatingHouse": "HOUSE",
-        "parliamentarianId": null,
-        "parliamentNumber": "47",
-        "sessionNumber": "1",
-        "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7332",
-        "sourceId": null
-    },
-    {
-        "id": 608,
-        "title": "Accountability of Grants, Investment Mandates and Use of Public Resources Amendment (End Pork Barrelling) 2024 [No. 2]",
-        "description": "P",
-        "currentStage": "HOUSE_READING_1",
-        "categories": [
-            "Legislature"
-        ],
-        "sponsors": [
-            "Hon. Anthony Albanese MP"
-        ],
-        "cosponsors": [
-            "Hon. Julie Collins MP",
-            "Hon. Linda Burney MP"
-        ],
-        "portfolioMinisters": [
-            "Hon. Murray Watt MP"
-        ],
-        "shadowMinisters": [
-            "Hon. Peter Dutton MP",
-            "Hon. Sussan Ley MP"
-        ],
-        "introducedDate": "2025-07-22T07:10:24.790Z",
-        "updatedDate": "2025-07-22T07:10:26.699Z",
-        "isTracked": false,
-        "stageHistory": [
-            {
-                "stage": "HOUSE_READING_1",
-                "date": "2025-07-22"
-            }
-        ],
-        "originatingHouse": "HOUSE",
-        "parliamentarianId": null,
-        "parliamentNumber": "47",
-        "sessionNumber": "1",
-        "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7260",
-        "sourceId": null
-    },
-    {
-        "id": 610,
-        "title": "Agriculture (Biosecurity Protection) Charges 2024",
-        "description": "B,D",
-        "currentStage": "HOUSE_READING_1",
-        "categories": [
-            "Legislature"
-        ],
-        "sponsors": [
-            "Hon. Anthony Albanese MP"
-        ],
-        "cosponsors": [
-            "Hon. Julie Collins MP",
-            "Hon. Linda Burney MP"
-        ],
-        "portfolioMinisters": [
-            "Hon. Murray Watt MP"
-        ],
-        "shadowMinisters": [
-            "Hon. Peter Dutton MP",
-            "Hon. Sussan Ley MP"
-        ],
-        "introducedDate": "2025-07-22T07:10:24.791Z",
-        "updatedDate": "2025-07-22T07:10:26.699Z",
-        "isTracked": false,
-        "stageHistory": [
-            {
-                "stage": "HOUSE_READING_1",
-                "date": "2025-07-22"
-            }
-        ],
-        "originatingHouse": "HOUSE",
-        "parliamentarianId": null,
-        "parliamentNumber": "47",
-        "sessionNumber": "1",
-        "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7157",
-        "sourceId": null
-    },
-    {
-        "id": 609,
-        "title": "Administrative Review Tribunal (Miscellaneous Measures) 2024",
-        "description": "B  Act citation: Administrative Review Tribunal (Miscellaneous Measures) 2025",
-        "currentStage": "HOUSE_READING_1",
-        "categories": [
-            "Legislature"
-        ],
-        "sponsors": [
-            "Hon. Anthony Albanese MP"
-        ],
-        "cosponsors": [
-            "Hon. Julie Collins MP",
-            "Hon. Linda Burney MP"
-        ],
-        "portfolioMinisters": [
-            "Hon. Murray Watt MP"
-        ],
-        "shadowMinisters": [
-            "Hon. Peter Dutton MP",
-            "Hon. Sussan Ley MP"
-        ],
-        "introducedDate": "2025-07-22T07:10:24.790Z",
-        "updatedDate": "2025-07-22T07:10:26.699Z",
-        "isTracked": false,
-        "stageHistory": [
-            {
-                "stage": "HOUSE_READING_1",
-                "date": "2025-07-22"
-            }
-        ],
-        "originatingHouse": "HOUSE",
-        "parliamentarianId": null,
-        "parliamentNumber": "47",
-        "sessionNumber": "1",
-        "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7237",
-        "sourceId": null
-    },
-    {
-        "id": 607,
-        "title": "Abolition of Special Prospecting Authorities (Ocean Protection) 2024",
-        "description": "P",
-        "currentStage": "HOUSE_READING_1",
-        "categories": [
-            "Legislature"
-        ],
-        "sponsors": [
-            "Hon. Anthony Albanese MP"
-        ],
-        "cosponsors": [
-            "Hon. Julie Collins MP",
-            "Hon. Linda Burney MP"
-        ],
-        "portfolioMinisters": [
-            "Hon. Murray Watt MP"
-        ],
-        "shadowMinisters": [
-            "Hon. Peter Dutton MP",
-            "Hon. Sussan Ley MP"
-        ],
-        "introducedDate": "2025-07-22T07:10:24.789Z",
-        "updatedDate": "2025-07-22T07:10:26.699Z",
-        "isTracked": false,
-        "stageHistory": [
-            {
-                "stage": "HOUSE_READING_1",
-                "date": "2025-07-22"
-            }
-        ],
-        "originatingHouse": "HOUSE",
-        "parliamentarianId": null,
-        "parliamentNumber": "47",
-        "sessionNumber": "1",
-        "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7266",
-        "sourceId": null
-    }
+  {
+    "id": 621,
+    "title": "(updated) Aged Care (Accommodation Payment Security) Levy Amendment Bill 2025",
+    "description": "No description available",
+    "currentStage": "HOUSE_READING_1",
+    "categories": ["Legislature"],
+    "sponsors": ["Hon. Anthony Albanese MP"],
+    "cosponsors": ["Hon. Julie Collins MP", "Hon. Linda Burney MP"],
+    "portfolioMinisters": ["Hon. Murray Watt MP"],
+    "shadowMinisters": ["Hon. Peter Dutton MP", "Hon. Sussan Ley MP"],
+    "introducedDate": "2025-07-30T01:16:30.432Z",
+    "updatedDate": "2025-07-30T01:16:31.953Z",
+    "isTracked": false,
+    "stageHistory": [
+      {
+        "stage": "HOUSE_READING_1",
+        "date": "2025-07-30"
+      }
+    ],
+    "originatingHouse": "HOUSE",
+    "parliamentarianId": null,
+    "parliamentNumber": "47",
+    "sessionNumber": "1",
+    "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7344",
+    "sourceId": null
+  },
+  {
+    "id": 625,
+    "title": "Criminal Code Amendment (Protection of Children) Bill 2024",
+    "description": "A Bill for an Act to amend the Criminal Code Act 1995 to include greater protections for children, and for related purposes",
+    "currentStage": "SENATE_READING_1",
+    "categories": ["Legislature"],
+    "sponsors": ["Senator Katy Gallagher"],
+    "cosponsors": ["Senator Fatima Payman", "Senator Penny Wong"],
+    "portfolioMinisters": ["Hon. Jim Chalmers MP"],
+    "shadowMinisters": ["Hon. Jane Hume MP"],
+    "introducedDate": "2025-07-30T01:16:31.952Z",
+    "updatedDate": "2025-07-30T01:16:31.953Z",
+    "isTracked": false,
+    "stageHistory": [
+      {
+        "stage": "SENATE_READING_1",
+        "date": "2025-07-30"
+      }
+    ],
+    "originatingHouse": "SENATE",
+    "parliamentarianId": null,
+    "parliamentNumber": "47",
+    "sessionNumber": "1",
+    "sourceUrl": "https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results?bId=s1456",
+    "sourceId": null
+  },
+  {
+    "id": 624,
+    "title": "Criminal Code Amendment (Using Technology to Generate Child Abuse Material) Bill 2025",
+    "description": "No description available",
+    "currentStage": "HOUSE_READING_1",
+    "categories": ["Legislature"],
+    "sponsors": ["Hon. Anthony Albanese MP"],
+    "cosponsors": ["Hon. Julie Collins MP", "Hon. Linda Burney MP"],
+    "portfolioMinisters": ["Hon. Murray Watt MP"],
+    "shadowMinisters": ["Hon. Peter Dutton MP", "Hon. Sussan Ley MP"],
+    "introducedDate": "2025-07-30T01:16:30.433Z",
+    "updatedDate": "2025-07-30T01:16:31.953Z",
+    "isTracked": false,
+    "stageHistory": [
+      {
+        "stage": "HOUSE_READING_1",
+        "date": "2025-07-30"
+      }
+    ],
+    "originatingHouse": "HOUSE",
+    "parliamentarianId": null,
+    "parliamentNumber": "47",
+    "sessionNumber": "1",
+    "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7347",
+    "sourceId": null
+  },
+  {
+    "id": 622,
+    "title": "Australian Security Intelligence Organisation Amendment Bill (No. 1) 2025",
+    "description": "No description available",
+    "currentStage": "HOUSE_READING_1",
+    "categories": ["Legislature"],
+    "sponsors": ["Hon. Anthony Albanese MP"],
+    "cosponsors": ["Hon. Julie Collins MP", "Hon. Linda Burney MP"],
+    "portfolioMinisters": ["Hon. Murray Watt MP"],
+    "shadowMinisters": ["Hon. Peter Dutton MP", "Hon. Sussan Ley MP"],
+    "introducedDate": "2025-07-30T01:16:30.432Z",
+    "updatedDate": "2025-07-30T01:16:31.953Z",
+    "isTracked": true,
+    "stageHistory": [
+      {
+        "stage": "HOUSE_READING_1",
+        "date": "2025-07-30"
+      }
+    ],
+    "originatingHouse": "HOUSE",
+    "parliamentarianId": null,
+    "parliamentNumber": "47",
+    "sessionNumber": "1",
+    "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7338",
+    "sourceId": null
+  },
+  {
+    "id": 623,
+    "title": "Australian Security Intelligence Organisation Amendment Bill (No. 2) 2025",
+    "description": "No description available",
+    "currentStage": "HOUSE_READING_1",
+    "categories": ["Legislature"],
+    "sponsors": ["Hon. Anthony Albanese MP"],
+    "cosponsors": ["Hon. Julie Collins MP", "Hon. Linda Burney MP"],
+    "portfolioMinisters": ["Hon. Murray Watt MP"],
+    "shadowMinisters": ["Hon. Peter Dutton MP", "Hon. Sussan Ley MP"],
+    "introducedDate": "2025-07-30T01:16:30.433Z",
+    "updatedDate": "2025-07-30T01:16:31.953Z",
+    "isTracked": false,
+    "stageHistory": [
+      {
+        "stage": "HOUSE_READING_1",
+        "date": "2025-07-30"
+      }
+    ],
+    "originatingHouse": "HOUSE",
+    "parliamentarianId": null,
+    "parliamentNumber": "47",
+    "sessionNumber": "1",
+    "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7339",
+    "sourceId": null
+  },
+  {
+    "id": 619,
+    "title": "Customs Amendment (Australia-United Arab Emirates Comprehensive Economic Partnership Agreement Implementation) Bill 2025",
+    "description": "No description available",
+    "currentStage": "HOUSE_READING_1",
+    "categories": ["Legislature"],
+    "sponsors": ["Hon. Anthony Albanese MP"],
+    "cosponsors": ["Hon. Julie Collins MP", "Hon. Linda Burney MP"],
+    "portfolioMinisters": ["Hon. Murray Watt MP"],
+    "shadowMinisters": ["Hon. Peter Dutton MP", "Hon. Sussan Ley MP"],
+    "introducedDate": "2025-07-28T03:21:37.860Z",
+    "updatedDate": "2025-07-28T03:21:41.452Z",
+    "isTracked": false,
+    "stageHistory": [
+      {
+        "stage": "HOUSE_READING_1",
+        "date": "2025-07-28"
+      }
+    ],
+    "originatingHouse": "HOUSE",
+    "parliamentarianId": null,
+    "parliamentNumber": "47",
+    "sessionNumber": "1",
+    "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7334",
+    "sourceId": null
+  },
+  {
+    "id": 614,
+    "title": "Therapeutic Goods Amendment Bill 2025",
+    "description": "Z",
+    "currentStage": "HOUSE_READING_1",
+    "categories": ["Legislature"],
+    "sponsors": ["Hon. Anthony Albanese MP"],
+    "cosponsors": ["Hon. Julie Collins MP", "Hon. Linda Burney MP"],
+    "portfolioMinisters": ["Hon. Murray Watt MP"],
+    "shadowMinisters": ["Hon. Peter Dutton MP", "Hon. Sussan Ley MP"],
+    "introducedDate": "2025-07-23T04:59:05.075Z",
+    "updatedDate": "2025-07-23T04:59:06.700Z",
+    "isTracked": false,
+    "stageHistory": [
+      {
+        "stage": "HOUSE_READING_1",
+        "date": "2025-07-23"
+      }
+    ],
+    "originatingHouse": "HOUSE",
+    "parliamentarianId": null,
+    "parliamentNumber": "47",
+    "sessionNumber": "1",
+    "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7332",
+    "sourceId": null
+  },
+  {
+    "id": 608,
+    "title": "Accountability of Grants, Investment Mandates and Use of Public Resources Amendment (End Pork Barrelling) 2024 [No. 2]",
+    "description": "P",
+    "currentStage": "HOUSE_READING_1",
+    "categories": ["Legislature"],
+    "sponsors": ["Hon. Anthony Albanese MP"],
+    "cosponsors": ["Hon. Julie Collins MP", "Hon. Linda Burney MP"],
+    "portfolioMinisters": ["Hon. Murray Watt MP"],
+    "shadowMinisters": ["Hon. Peter Dutton MP", "Hon. Sussan Ley MP"],
+    "introducedDate": "2025-07-22T07:10:24.790Z",
+    "updatedDate": "2025-07-22T07:10:26.699Z",
+    "isTracked": false,
+    "stageHistory": [
+      {
+        "stage": "HOUSE_READING_1",
+        "date": "2025-07-22"
+      }
+    ],
+    "originatingHouse": "HOUSE",
+    "parliamentarianId": null,
+    "parliamentNumber": "47",
+    "sessionNumber": "1",
+    "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7260",
+    "sourceId": null
+  },
+  {
+    "id": 610,
+    "title": "Agriculture (Biosecurity Protection) Charges 2024",
+    "description": "B,D",
+    "currentStage": "HOUSE_READING_1",
+    "categories": ["Legislature"],
+    "sponsors": ["Hon. Anthony Albanese MP"],
+    "cosponsors": ["Hon. Julie Collins MP", "Hon. Linda Burney MP"],
+    "portfolioMinisters": ["Hon. Murray Watt MP"],
+    "shadowMinisters": ["Hon. Peter Dutton MP", "Hon. Sussan Ley MP"],
+    "introducedDate": "2025-07-22T07:10:24.791Z",
+    "updatedDate": "2025-07-22T07:10:26.699Z",
+    "isTracked": false,
+    "stageHistory": [
+      {
+        "stage": "HOUSE_READING_1",
+        "date": "2025-07-22"
+      }
+    ],
+    "originatingHouse": "HOUSE",
+    "parliamentarianId": null,
+    "parliamentNumber": "47",
+    "sessionNumber": "1",
+    "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7157",
+    "sourceId": null
+  },
+  {
+    "id": 609,
+    "title": "Administrative Review Tribunal (Miscellaneous Measures) 2024",
+    "description": "B  Act citation: Administrative Review Tribunal (Miscellaneous Measures) 2025",
+    "currentStage": "HOUSE_READING_1",
+    "categories": ["Legislature"],
+    "sponsors": ["Hon. Anthony Albanese MP"],
+    "cosponsors": ["Hon. Julie Collins MP", "Hon. Linda Burney MP"],
+    "portfolioMinisters": ["Hon. Murray Watt MP"],
+    "shadowMinisters": ["Hon. Peter Dutton MP", "Hon. Sussan Ley MP"],
+    "introducedDate": "2025-07-22T07:10:24.790Z",
+    "updatedDate": "2025-07-22T07:10:26.699Z",
+    "isTracked": false,
+    "stageHistory": [
+      {
+        "stage": "HOUSE_READING_1",
+        "date": "2025-07-22"
+      }
+    ],
+    "originatingHouse": "HOUSE",
+    "parliamentarianId": null,
+    "parliamentNumber": "47",
+    "sessionNumber": "1",
+    "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7237",
+    "sourceId": null
+  },
+  {
+    "id": 607,
+    "title": "Abolition of Special Prospecting Authorities (Ocean Protection) 2024",
+    "description": "P",
+    "currentStage": "HOUSE_READING_1",
+    "categories": ["Legislature"],
+    "sponsors": ["Hon. Anthony Albanese MP"],
+    "cosponsors": ["Hon. Julie Collins MP", "Hon. Linda Burney MP"],
+    "portfolioMinisters": ["Hon. Murray Watt MP"],
+    "shadowMinisters": ["Hon. Peter Dutton MP", "Hon. Sussan Ley MP"],
+    "introducedDate": "2025-07-22T07:10:24.789Z",
+    "updatedDate": "2025-07-22T07:10:26.699Z",
+    "isTracked": false,
+    "stageHistory": [
+      {
+        "stage": "HOUSE_READING_1",
+        "date": "2025-07-22"
+      }
+    ],
+    "originatingHouse": "HOUSE",
+    "parliamentarianId": null,
+    "parliamentNumber": "47",
+    "sessionNumber": "1",
+    "sourceUrl": "http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7266",
+    "sourceId": null
+  }
 ]
