@@ -61,9 +61,13 @@ export default function Bills() {
     data: bills = [],
     isLoading,
     error,
+    isFetching,
+    isStale,
+    refetch,
   } = useQuery({
     queryKey: ['bills'],
     queryFn: fetchBills,
+    refetchInterval: 300000, // Refetch every 5 minutes
   });
 
   // Filter bills based on search term
@@ -265,6 +269,38 @@ export default function Bills() {
         <p className="bills__subtitle">
           Browse and search through current parliamentary bills
         </p>
+      </div>
+
+      <div
+        style={{
+          display: 'flex',
+          alignItems: 'center',
+          gap: '1rem',
+          marginBottom: 8,
+        }}
+      >
+        <span>
+          Status:{' '}
+          {isFetching ? (
+            <span style={{ color: '#e67e22' }}>Refreshing…</span>
+          ) : isStale ? (
+            <span style={{ color: '#e74c3c' }}>Stale</span>
+          ) : (
+            <span style={{ color: '#27ae60' }}>Fresh</span>
+          )}
+        </span>
+        <button
+          onClick={() => refetch()}
+          style={{
+            padding: '0.25rem 0.75rem',
+            borderRadius: 4,
+            border: '1px solid #ccc',
+            background: '#f8f8f8',
+            cursor: 'pointer',
+          }}
+        >
+          Refresh
+        </button>
       </div>
 
       <div className="bills__search">
