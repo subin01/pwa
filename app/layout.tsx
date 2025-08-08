@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from 'next';
 import Link from 'next/link';
+import Providers from './providers';
 
 export const metadata: Metadata = {
   title: 'PWA App',
@@ -33,38 +34,43 @@ export default function RootLayout({
         <link rel="stylesheet" href="/globals.css" />
       </head>
       <body>
-        <nav
-          style={{
-            padding: '1rem',
-            backgroundColor: '#f0f0f0',
-            borderBottom: '1px solid #ccc',
-          }}
-        >
-          <Link
-            href="/"
+        <Providers>
+          <nav
             style={{
-              marginRight: '1rem',
-              textDecoration: 'none',
-              color: '#333',
+              padding: '1rem',
+              backgroundColor: '#f0f0f0',
+              borderBottom: '1px solid #ccc',
             }}
           >
-            Home
-          </Link>
-          <Link
-            href="/todos"
-            style={{
-              marginRight: '1rem',
-              textDecoration: 'none',
-              color: '#333',
-            }}
-          >
-            Todos
-          </Link>
-          <Link href="/bills" style={{ textDecoration: 'none', color: '#333' }}>
-            Bills
-          </Link>
-        </nav>
-        <main style={{ padding: '2rem' }}>{children}</main>
+            <Link
+              href="/"
+              style={{
+                marginRight: '1rem',
+                textDecoration: 'none',
+                color: '#333',
+              }}
+            >
+              Home
+            </Link>
+            <Link
+              href="/todos"
+              style={{
+                marginRight: '1rem',
+                textDecoration: 'none',
+                color: '#333',
+              }}
+            >
+              Todos
+            </Link>
+            <Link
+              href="/bills"
+              style={{ textDecoration: 'none', color: '#333' }}
+            >
+              Bills
+            </Link>
+          </nav>
+          <main style={{ padding: '2rem' }}>{children}</main>
+        </Providers>
         <script src="/sw-register.js" defer></script>
       </body>
     </html>
